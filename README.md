@@ -1,108 +1,112 @@
 <p align="center">
   <a href="https://github.com/notreallyflash">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=190&section=header&text=Faheem%20Hashim&fontFamily=Space%20Mono&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Graduate%20-%20Product%20and%20Systems&descSize=20&descAlignY=66" width="100%" alt="Faheem Hashim — Computer Science Graduate, Product and Systems" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:25282B,100:735C6D&height=184&section=header&text=Faheem%20Hashim&fontFamily=Space%20Mono&fontSize=48&fontColor=F2EBE2&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Graduate%20-%20Product-minded%20Builder&descSize=19&descAlignY=66" width="100%" alt="Faheem Hashim — Computer Science Graduate and Product-minded Builder" />
   </a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2200&pause=1400&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+useful+digital+products.;%3E+thinking+beyond+the+interface.;%3E+currently+shaping+Pebble." width="100%" alt="Building useful digital products. Thinking beyond the interface. Currently shaping Pebble." />
 </p>
+
+<p align="center"><strong>Turning everyday problems into working products.</strong></p>
 
 <p align="center">
-  <a href="https://faheemhashim.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/notreallyflash?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-A21517?style=for-the-badge" alt="Projects" />
-  </a>
-  <a href="mailto:faheemhashim04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" />
-  </a>
+  <a href="https://faheemhashim.netlify.app/">Portfolio</a> ·
+  <a href="https://github.com/notreallyflash?tab=repositories">GitHub projects</a> ·
+  <a href="mailto:faheemhashim04@gmail.com">Email</a>
 </p>
+
+## 01 / About
+
+I’m a **Computer Science graduate from Kristu Jayanti (Deemed to be University), Bengaluru, Karnataka, India** and a product-minded builder. I enjoy starting with a real problem, shaping the experience around what people need, and thinking through the technology and systems that make it work.
+
+- **Currently shaping:** Pebble, a guided personal-finance experience, and Loop, an expiry tracker built around a clear “Use first” action.
+- **Interested in:** Early-career opportunities across product and business systems.
+- **Exploring:** Cloud and DevOps, workflow automation, and the systems behind digital products.
+
+## 02 / Selected work
+
+### 01 — Pebble
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pebble-flagship_product-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Pebble — flagship product" />
-  <img src="https://img.shields.io/badge/04-selected_projects-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Four selected projects" />
-  <img src="https://img.shields.io/badge/Kuwait-based-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Kuwait based" />
+  <a href="https://www.figma.com/design/FQiqgxgS54b5FWyqdNRYPU/Pebble---your-complete-finance-ecosystem?node-id=0-1">
+    <img src="./assets/pebble-concept-board.jpg" width="100%" alt="Pebble visual direction and personal-finance concept board" />
+  </a>
 </p>
 
-## 🧬 a little about me
+<img src="https://img.shields.io/badge/FLAGSHIP-PRODUCT%20DESIGN-B87963?style=flat-square&labelColor=25282B" alt="Flagship product design" /> <img src="https://img.shields.io/badge/STATUS-FIGMA%20DESIGN-735C6D?style=flat-square&labelColor=25282B" alt="Figma design" />
 
-I’m a computer science graduate interested in the space where **product thinking, business processes, and technology** meet. I enjoy taking an everyday problem, understanding what people actually need, and shaping it into a useful digital experience — from the interface to the systems behind it.
+Pebble is for people who want an approachable view of their everyday money and the longer-term goals behind it — without treating expense logging as the whole experience.
 
-```python
-me = {
-    "focus": "Digital products, business systems & automation",
-    "based": "Kuwait",
-    "education": "Computer Science",
-    "building": ["Pebble", "Loop"],
-    "exploring": ["Cloud & DevOps", "Automation"],
-    "interests": ["Product thinking", "Systems design", "Technology"],
-}
-```
+**The design decision I would defend:** lead with a clear snapshot of wallet balance, accounts, goal progress and recent activity. That helps people understand where they stand first; monthly budgets, expense categories, investments and reports sit one level deeper for when they want more detail.
 
-## 🚀 selected projects
+**Explore:** [Pebble in Figma](https://www.figma.com/design/FQiqgxgS54b5FWyqdNRYPU/Pebble---your-complete-finance-ecosystem?node-id=0-1)
+
+### 02 — Loop and 03 — EcoDrop
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🪨 Pebble</h3>
-      <sub><b>Complete personal finance ecosystem · flagship project</b></sub>
-      <p>More than a budget tracker: Pebble is a personal finance ecosystem designed to bring budgeting, spending, saving, and everyday money decisions into one connected experience.</p>
-      <p><code>Personal Finance</code> <code>Product Design</code> <code>Systems Thinking</code></p>
+      <p align="center">
+        <a href="https://www.figma.com/design/PA0IUzzXziK4g2fI5Dh110/Loop---expiry-tracking-platform?node-id=2-70">
+          <img src="./assets/loop-today.png" width="190" alt="Loop Today screen showing Needs Attention and Use First sections" />
+        </a>
+      </p>
+      **Loop**  
+      <img src="https://img.shields.io/badge/STATUS-UI%20DESIGN-B87963?style=flat-square&labelColor=25282B" alt="UI design" />
+
+      Loop is designed for people managing food and everyday items at home. Its Today screen prioritises a **Needs Attention** panel and a **Use First** list, bringing items close to expiry forward instead of making people search through an undifferentiated inventory. A “Before you shop” prompt connects what is already at home with the next shopping decision.
+
+      [View Loop in Figma](https://www.figma.com/design/PA0IUzzXziK4g2fI5Dh110/Loop---expiry-tracking-platform?node-id=2-70)
     </td>
     <td width="50%" valign="top">
-      <h3>🔁 Loop</h3>
-      <sub><b>Expiry tracking · waste less</b></sub>
-      <p>A practical way to keep track of expiry dates, know what needs to be used next, and reduce avoidable waste at home.</p>
-      <p><code>Product Design</code> <code>Mobile UX</code> <code>Tracking</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 LaunchPad</h3>
-      <sub><b>Resume analysis & career preparation</b></sub>
-      <p>A career-support tool that helps people review and improve their resumes, built with an Android app and a Python backend.</p>
-      <p><code>Kotlin</code> <code>Python</code> <code>FastAPI</code> <code>Supabase</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Ecodrop</h3>
-      <sub><b>E-waste management platform</b></sub>
-      <p>A digital platform exploring how technology can make responsible electronics disposal and e-waste management easier to navigate.</p>
-      <p><code>Platform Design</code> <code>Sustainability</code></p>
-    </td>
-  </tr>
-</table>
+      <p align="center">
+        <a href="https://www.figma.com/design/3b2Q5M4eULNU2Axh0GIHME/EcoDrop?node-id=0-1">
+          <img src="./assets/ecodrop-home.png" width="190" alt="EcoDrop home screen with waste pickup and recycling services" />
+        </a>
+      </p>
+      **EcoDrop**  
+      <img src="https://img.shields.io/badge/STATUS-PLATFORM%20DESIGN-B87963?style=flat-square&labelColor=25282B" alt="Platform design" />
 
-<p align="center">
-  <a href="https://github.com/notreallyflash?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_more_projects-A21517?style=for-the-badge" alt="Explore more projects" />
-  </a>
-</p>
+      EcoDrop explores a clearer route from identifying unwanted electronics to arranging responsible recycling. The design brings pickup, recycling and rewards forward, with supporting flows for finding e-waste items, entering collection details and tracking a recycler.
 
-## 💼 experience
-
-<table>
-  <tr>
-    <td width="36%" valign="top"><b>Technology Consulting Intern</b><br /><sub>Emstell Technology Consulting</sub></td>
-    <td valign="top">Contributed to website testing, including checking mobile responsiveness and the experience across screen sizes.</td>
+      [View EcoDrop in Figma](https://www.figma.com/design/3b2Q5M4eULNU2Axh0GIHME/EcoDrop?node-id=0-1)
+    </td>
   </tr>
 </table>
 
-## 🧰 tools & technologies
+### 04 — LaunchPad
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,html,css,js,fastapi,supabase,git,github,vscode,figma,androidstudio&perline=7&theme=dark" alt="Python, Java, Kotlin, HTML, CSS, JavaScript, FastAPI, Supabase, Git, GitHub, VS Code, Figma and Android Studio" />
-</p>
+<img src="https://img.shields.io/badge/STATUS-BACKEND%20PROTOTYPE-B87963?style=flat-square&labelColor=25282B" alt="Backend prototype" /> **Resume review and career preparation**
 
-<p align="center"><b>Interested in building something useful together? Let’s connect.</b></p>
+LaunchPad pairs an Android client built with Kotlin with a Python backend. The [public repository](https://github.com/notreallyflash/LaunchPad) currently contains the backend prototype: it extracts text from PDF resumes, applies keyword-based sector and skill matching, and returns detected strengths, missing skills, a heuristic score and an improvement suggestion. Separate endpoints return interview-preparation and cover-letter templates.
 
-<p align="center">
-  <a href="mailto:faheemhashim04@gmail.com">
-    <img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" />
-  </a>
-  <a href="https://faheemhashim.netlify.app/">
-    <img src="https://img.shields.io/badge/visit_my_portfolio-A21517?style=for-the-badge" alt="Visit my portfolio" />
-  </a>
-</p>
+The score is a **keyword-based heuristic, not a validated ATS score**, and the interview/cover-letter responses are currently templates rather than generative-AI output. The Android client is not included in the public repository yet.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Curious%20by%20nature.%20Building%20with%20intent.&fontSize=27&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Curious by nature. Building with intent." />
-</p>
+**Backend stack:** `Python` `FastAPI` `PyMuPDF` `Pydantic`
+
+[Explore the LaunchPad repository](https://github.com/notreallyflash/LaunchPad)
+
+## 03 / Experience
+
+**Technology Consulting Intern** · Emstell Technology Consulting · Kuwait  
+*May – July 2025*
+
+- Assisted with the UI/UX redesign of the company’s official website.
+- Joined client meetings to gather requirements and contribute ideas aligned with business goals.
+- Collaborated with design and development teams to maintain consistent branding across digital platforms.
+- Conducted market and competitor research to inform redesign direction and content planning.
+
+## 04 / Education
+
+**Computer Science**  
+Kristu Jayanti (Deemed to be University) · Bengaluru, Karnataka, India
+
+## 05 / Tools and technologies
+
+- **Languages and app development:** `Python` `Kotlin` `JavaScript` `HTML` `CSS`
+- **Backend and data:** `FastAPI` `Supabase` `PyMuPDF`
+- **Product and design:** `Figma` `Canva`
+- **Development workflow:** `Git` `GitHub` `VS Code` `Android Studio`
+- **Currently exploring:** Cloud and DevOps · Docker · Google Cloud Platform
+
+---
+
+<p align="center"><strong>Curious by nature. Building with intent.</strong></p>
+<p align="center"><a href="mailto:faheemhashim04@gmail.com">Say hello</a> · <a href="https://faheemhashim.netlify.app/">Visit my portfolio</a></p>
