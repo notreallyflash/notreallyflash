@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.webp" width="100%" alt="Faheem Hashim. I like to write. I ship what I sketch. A sketch of three app screens turning into the finished designs." />
+  <img
+    src="./assets/banner%20(1).png"
+    width="100%"
+    alt="Faheem Hashim — I like to write. I ship what I sketch."
+  />
 </p>
 
 <p align="center">
