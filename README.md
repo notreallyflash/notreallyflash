@@ -12,9 +12,9 @@
 
 ## a little about me
 
-CS grad based in Kuwait—designing interfaces in Figma and building backends in Python. Right now, I’m focused on shipping Pebble and Loop.
+CS grad based in Kuwait,designing interfaces in Figma and building backends in Python. Right now, I’m focused on shipping Pebble and Loop.
 
-- **Currently working on:** Pebble — a personal-finance experience built around a clearer view of spending and savings.
+- **Currently working on:** Pebble - a personal-finance experience built around a clearer view of spending and savings.
 - **Open to:** Product Engineering, UI/UX Design, Frontend and Full-Stack internships.
 
 <sub>Kristu Jayanti(Deemed to be University) · Bengaluru, India · 2026 &nbsp; / &nbsp; Summer Intern · Emstell Technology Consulting · May–July 2025</sub>
