@@ -30,7 +30,6 @@ CS grad based in Kuwait—designing interfaces in Figma and building backends in
     </td>
     <td width="70%" valign="middle">
       <h3>01 / Pebble <sup>FLAGSHIP</sup></h3>
-      <p><strong>A personal-finance dashboard that answers one question first: how are things looking?</strong></p>
       <p>A personal finance app for tracking expenses, managing budgets, savings goals, investments and transactions, with a home screen designed for quick check-ins.
       </p>
       <p><sub>Design prototype · Personal finance · Mobile UI</sub></p>
