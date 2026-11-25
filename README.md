@@ -13,81 +13,76 @@
 
 ## a little about me
 
-I’m a **Bachelor of Computer Applications** graduate based in Kuwait. I like spotting where everyday tasks get awkward, sketching a clearer flow, and figuring out how to make it work.
+CS grad based in Kuwait—designing interfaces in Figma and building backends in Python. Right now, I’m focused on shipping Pebble and Loop.
 
-- **Currently building:** Pebble & Loop — moving selected Figma flows into Next.js and Kotlin builds.
+- **Currently working on:** Pebble — a personal-finance experience built around a clearer view of spending and savings.
 - **Open to:** Product Engineering, UI/UX Design, Frontend and Full-Stack internships.
 
-<sub>Kristu Jayanti College (Deemed to be University) · Bengaluru, India · 2026 &nbsp; / &nbsp; Technology Consulting Intern · Emstell Technology Consulting · May–July 2025</sub>
+<sub>Kristu Jayanti(Deemed to be University) · Bengaluru, India · 2026 &nbsp; / &nbsp; Summer Intern · Emstell Technology Consulting · May–July 2025</sub>
 
 ## selected work
 
-### 01 / Pebble <sup>FLAGSHIP</sup>
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://www.figma.com/design/FQiqgxgS54b5FWyqdNRYPU/Pebble---your-complete-finance-ecosystem?node-id=0-1">
+        <img src="./assets/pebble-device.webp" width="100%" alt="Pebble personal finance dashboard shown on a smartphone, with expenditure, savings progress and recent transactions" />
+      </a>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>01 / Pebble <sup>FLAGSHIP</sup></h3>
+      <p><strong>A personal-finance dashboard that answers one question first: how are things looking?</strong></p>
+      <p>The home screen brings monthly expenditure, savings progress and recent transactions together. Deeper account and goal details sit one step further in.</p>
+      <p><strong>My design call:</strong> lead with orientation, not data entry. A spend figure, one savings visual and recent activity help people get their bearings before asking them to log or categorise anything.</p>
+      <p><sub>Design prototype · Personal finance · Mobile UI</sub></p>
+      <p><a href="https://www.figma.com/design/FQiqgxgS54b5FWyqdNRYPU/Pebble---your-complete-finance-ecosystem?node-id=0-1">Explore Pebble in Figma</a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://www.figma.com/design/FQiqgxgS54b5FWyqdNRYPU/Pebble---your-complete-finance-ecosystem?node-id=0-1">
-    <img src="./assets/pebble-showcase.webp" width="88%" alt="Pebble personal finance dashboard shown on a phone with a desktop view behind it" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/notreallyflash/LaunchPad">
+        <img src="./assets/launchpad-device.webp" width="100%" alt="LaunchPad Android app screen showing a resume progress indicator, core competencies and resume actions" />
+      </a>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>02 / LaunchPad</h3>
+      <p><strong>A career-preparation app with an Android interface and a public Python backend.</strong></p>
+      <p>The Android UI brings resume scanning, core competencies and follow-up actions into one flow. The public FastAPI backend extracts text from PDF resumes, matches sector and skill keywords, and returns heuristic feedback. Interview and cover-letter endpoints currently return templates.</p>
+      <p><strong>My product call:</strong> make “Scan new resume” the clearest action, while keeping record-saving and drafting tools close by.</p>
+      <p><sub>Android client in private refinement · Public backend prototype</sub></p>
+      <p><a href="https://github.com/notreallyflash/LaunchPad">Explore the LaunchPad code</a></p>
+      <p><sub>Accuracy note: the 28% shown in this UI visual is not the score returned by the current public backend. The backend uses a separate keyword-based heuristic, not a validated ATS score.</sub></p>
+    </td>
+  </tr>
+</table>
 
-A personal-finance dashboard that answers one quick question first: **how are things looking?** Monthly expenditure, savings progress and recent transactions sit up front; accounts, budgets and longer-term goals sit a step deeper.
-
-**My design call:** lead with orientation, not data entry. A spend figure, one savings visual and recent activity help people get their bearings before asking them to log or categorise anything.
-
-[Explore Pebble in Figma](https://www.figma.com/design/FQiqgxgS54b5FWyqdNRYPU/Pebble---your-complete-finance-ecosystem?node-id=0-1)
-
----
-
-### 02 / Loop
-
-<p align="center">
-  <a href="https://www.figma.com/design/PA0IUzzXziK4g2fI5Dh110/Loop---expiry-tracking-platform?node-id=2-70">
-    <img src="./assets/loop-showcase.webp" width="72%" alt="Loop Today screen with Needs Attention and Use First sections" />
-  </a>
-</p>
-
-Loop helps people keep track of food and everyday items already at home. Its Today screen brings soon-to-expire items forward, with a **Use First** list and a reminder to check what is on hand before shopping.
-
-**My design call:** put Use First ahead of the full inventory. When someone opens Loop, the useful question is “what should I use next?” — not “what do I own?”
-
-[Explore Loop in Figma](https://www.figma.com/design/PA0IUzzXziK4g2fI5Dh110/Loop---expiry-tracking-platform?node-id=2-70)
-
----
-
-### 03 / EcoDrop
-
-<p align="center">
-  <a href="https://www.figma.com/design/3b2Q5M4eULNU2Axh0GIHME/EcoDrop?node-id=0-1">
-    <img src="./assets/ecodrop-showcase.webp" width="72%" alt="EcoDrop recycling app with e-waste pickup and reward options" />
-  </a>
-</p>
-
-EcoDrop maps the handover of unwanted electronics — from finding a service and arranging collection to following the recycler hand-off and seeing reward points.
-
-**My design call:** put pickup and the reward route up front instead of leading with an impact dashboard. Make the next step and practical return clear first; the environmental benefit is the reason behind the service, not another chart to interpret.
-
-[Explore EcoDrop in Figma](https://www.figma.com/design/3b2Q5M4eULNU2Axh0GIHME/EcoDrop?node-id=0-1)
-
----
-
-### 04 / LaunchPad · Code
-
-<p align="center">
-  <a href="https://github.com/notreallyflash/LaunchPad">
-    <img src="./assets/launchpad-screen.webp" width="68%" alt="LaunchPad app interface showing current competencies and resume actions" />
-  </a>
-</p>
-
-A career-preparation app pairing an Android client with a Python/FastAPI backend. The public repository houses the backend: PDF parsing, keyword-based skill matching, heuristic feedback scoring, and interview-preparation and cover-letter endpoints. The Android client is currently in private refinement.
-
-**Code:** [LaunchPad on GitHub](https://github.com/notreallyflash/LaunchPad) · `Python` `FastAPI` `PyMuPDF` `Kotlin`
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://www.figma.com/design/3b2Q5M4eULNU2Axh0GIHME/EcoDrop?node-id=0-1">
+        <img src="./assets/ecodrop-device.webp" width="100%" alt="EcoDrop recycling app home screen showing e-waste pickup, rewards and recycling services" />
+      </a>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>03 / EcoDrop</h3>
+      <p><strong>An e-waste service concept that makes the handover of old electronics feel straightforward.</strong></p>
+      <p>People can start with a pickup request, explore recycling services and see the reward route for returning unwanted devices.</p>
+      <p><strong>My design call:</strong> put pickup and rewards ahead of an impact dashboard. First make it obvious how to hand over an old device and what the user gets in return; environmental impact can support that action rather than compete with it.</p>
+      <p><sub>Figma concept · Service design · E-waste</sub></p>
+      <p><a href="https://www.figma.com/design/3b2Q5M4eULNU2Axh0GIHME/EcoDrop?node-id=0-1">Explore EcoDrop in Figma</a></p>
+    </td>
+  </tr>
+</table>
 
 ## the toolkit
 
-- **Build:** `Python` `Kotlin` `JavaScript` `React` `Next.js` `HTML` `CSS` `SQL` `FastAPI` `Supabase`
+- **Build:** `Python` `Kotlin` `FastAPI` `PyMuPDF` `SQL` `JavaScript` `HTML` `CSS`
 - **Design:** `Figma`
 - **Workflow:** `Git` `GitHub` `VS Code` `Android Studio`
-- **Exploring:** `Docker` `Google Cloud` · Cloud & DevOps · workflow automation
+- **Exploring:** `React` `Next.js` `Docker` `Google Cloud`
 
 <p align="center"><strong>Have a problem worth making simpler?</strong><br />
 <a href="mailto:faheemhashim04@gmail.com">Say hello</a></p>
